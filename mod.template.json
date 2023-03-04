@@ -6,7 +6,7 @@
   "version": "${version}",
   "packageId": "com.beatgames.beatsaber",
   "packageVersion": "1.27.0_3631150051",
-  "description": "Load Custom Songs at Runtime",
+  "description": "Load Custom Songs at Runtime min liveness backport",
   "coverImage": "cover.png",
   "dependencies": [],
   "modFiles": [],
